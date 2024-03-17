@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Prithwi</h1>
-<h3 align="center">A passionate computer science and engineering student from Bangladesh</h3>
+<h3 align="center">A computer science and engineering student from Bangladesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=prithwiii&label=Profile%20views&color=0e75b6&style=flat" alt="prithwiii" /> </p>
 
